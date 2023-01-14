@@ -1,0 +1,79 @@
+/*
+
+Xilinx Vitis v2020.2.0 (64-bit) [Major: 2020, Minor: 2]
+SW Build 3064172 on 2020-11-18-06:24:19
+
+Process ID (PID): 14022
+License: Customer
+
+Current time: 	Sun Jan 08 15:00:26 CET 2023
+Time zone: 	Central European Standard Time (Europe/Copenhagen)
+
+OS: Ubuntu
+OS Version: 5.15.0-57-generic
+OS Architecture: amd64
+Available processors (cores): 4
+
+Display: :0
+Screen size: 1920x1080
+Available screens: 1
+Available disk space: 182 GB
+
+Java version: 	11.0.2 64-bit
+Java home: 	/tools/Xilinx/Vitis/2020.2/tps/lnx64/jre11.0.2
+Java executable location: 	/tools/Xilinx/Vitis/2020.2/tps/lnx64/jre11.0.2/bin/java
+Java initial memory (-Xms): 	64 MB
+Java maximum memory (-Xmx):	 1,024 MB
+
+Java library paths: /tools/Xilinx/Vitis/2020.2/tps/lnx64/javafx-sdk-11.0.2/lib:/tools/Xilinx/Vitis/2020.2/lib/lnx64.o/Ubuntu:/tools/Xilinx/Vitis/2020.2/lib/lnx64.o:/tools/Xilinx/Vitis/2020.2/tps/lnx64/jre11.0.2/lib/:/tools/Xilinx/Vitis/2020.2/tps/lnx64/jre11.0.2/lib//server:/tools/Xilinx/Vitis/2020.2/lib/lnx64.o:/tools/Xilinx/Vitis/2020.2/lib/lnx64.o/Ubuntu:/tools/Xilinx/Vitis/2020.2/lib/lnx64.o:/tools/Xilinx/Vitis/2020.2/tps/lnx64/python-3.8.3/lib:/tools/Xilinx/Vitis/2020.2/bin/../lnx64/tools/dot/lib:/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+
+Java class paths: /tools/Xilinx/Vitis/2020.2/eclipse/lnx64.o//plugins/org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar
+LD_LIBRARY_PATH: /tools/Xilinx/Vitis
+
+User name: 	erik
+User home directory: /home/erik
+User working directory: /home/erik/Documents/SDU/Courses/EmbSys/NNFPGA
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /tools/Xilinx/Vitis
+HDI_APPROOT: /tools/Xilinx/Vitis/2020.2
+RDI_DATADIR: /tools/Xilinx/Vitis/2020.2/data
+RDI_BINDIR: /tools/Xilinx/Vitis/2020.2/bin
+
+Vitis preferences directory: /home/erik/.Xilinx/Vitis/2020.2/
+Vitis workspace directory: /home/erik/Documents/SDU/Courses/EmbSys/NNFPGA/vitis
+Vitis workspace log file location: /home/erik/Documents/SDU/Courses/EmbSys/NNFPGA/vitis/.metadata/.log
+Engine tmp dir: 	
+
+Xilinx Environment Variables
+----------------------------
+XILINX_DSP: 
+XILINX_HLS: /tools/Xilinx/Vitis_HLS/2020.2
+XILINX_PLANAHEAD: /tools/Xilinx/Vitis/2020.2
+XILINX_SDK: /tools/Xilinx/Vitis/2020.2
+XILINX_VITIS: /tools/Xilinx/Vitis/2020.2
+XILINX_VIVADO: /tools/Xilinx/Vivado/2020.2
+XILINX_VIVADO_HLS: /tools/Xilinx/Vivado/2020.2
+_RDI_DONT_SET_XILINX_AS_PATH: True
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+selectTreeTable("Debug", "NNFPGA_system > NNFPGA", "Debug", "LaunchView", "TreeViewer.NavigatorContentServiceContentProvider");
+activateView("Debug", "LaunchView", "CTabItem.DEBUG");
+activateView("xnn_inference_sinit.c", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/hw/drivers/nn_", "CEditor", "CTabItem.XNN_INFERENCE_SINIT_C");
+activateView("xnn_inference.h", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/hw/drivers/nn_", "CEditor", "CTabItem.XNN_INFERENCE_H");
+activateView("xnn_inference_sinit.c", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/hw/drivers/nn_", "CEditor", "CTabItem.XNN_INFERENCE_SINIT_C");
+activateView("xnn_inference.h", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/hw/drivers/nn_", "CEditor", "CTabItem.XNN_INFERENCE_H");
+activateView("xnn_inference_sinit.c", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/hw/drivers/nn_", "CEditor", "CTabItem.XNN_INFERENCE_SINIT_C");
+activateView("xparameters_ps.h", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/sw/u96v2_sbc_m", "CEditor", "CTabItem.XPARAMETERS_PS_H");
+activateView("xparameters.h", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/sw/u96v2_sbc_m", "CEditor", "CTabItem.XPARAMETERS_H");
+activateView("xnn_inference.h", "u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/hw/drivers/nn_", "CEditor", "CTabItem.XNN_INFERENCE_H");
+selectButton("Exit", "Confirm Exit", "MessageDialogWithToggle", "Button.EXIT");
+// Exiting Xilinx Vitis with a status code '0' at 1/8/23, 3:47:48 PM CET
+// Elapsed time: 00:47:24
+
